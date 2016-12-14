@@ -4,8 +4,8 @@ Cool error pages 😎
 
 ## 500 Error
 
-![](screenshot500.jpg)
+![](screenshot-500.jpg)
 
 ## 404 Error
 
-![](screenshot404.jpg)
+![](screenshot-404.jpg)
